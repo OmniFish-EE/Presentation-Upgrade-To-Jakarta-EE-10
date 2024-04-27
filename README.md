@@ -1,2 +1,5 @@
 # Presentation-Upgrade-To-Jakarta-EE-10
-Resources for the presentation How to Easily Upgrade to Jakarta EE 10: Javax to Jakarta Prefix without a Hassle
+
+The slides for the presentation are published here: https://speakerdeck.com/omnifish/how-to-upgrade-to-jakarta-ee-10-javax-to-jakarta-prefix-without-a-hassle
+
+Demo projects: https://github.com/OmniFish-EE/upgrading-jakarta-ee-applications
